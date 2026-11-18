@@ -2,11 +2,15 @@ Lina Laifa
 
 ### Junior Penetration Tester | Cybersecurity
 
-I am an aspiring penetration tester developing practical skills in network security, Active Directory security assessments, reconnaissance, enumeration, vulnerability analysis, and technical reporting.
+I focus on penetration testing, network security and Active Directory security assessments, with practical skills in reconnaissance, enumeration, vulnerability analysis and technical reporting.
 
-I independently designed and built two isolated Active Directory lab environments using Oracle VirtualBox, comprising seven virtual machines across two separate projects.
+I independently designed, built and configured two complete Active Directory lab environments from scratch using Oracle VirtualBox, comprising seven virtual machines across two separate projects.
 
-My development combines foundational cybersecurity education, introductory penetration-testing training, ongoing Blue Team studies, and practical lab projects.
+My technical work includes network reconnaissance, service enumeration, Active Directory assessments, Kerberos authentication analysis, LDAP and SMB security reviews, vulnerability identification and remediation recommendations.
+
+I combine REAL hands-on penetration-testing projects, cybersecurity training and ongoing Blue Team studies to strengthen my understanding of offensive security and broader security operations.
+
+I document my assessments through comprehensive technical reports, including methodology, evidence, findings, potential business impact and remediation recommendations.
 
 ——-
 
