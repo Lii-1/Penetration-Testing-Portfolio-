@@ -120,7 +120,7 @@ Currently completing the Blue Team Junior Analyst pathway to develop foundationa
 - **Password Analysis:** ZIP cracking, Fcrackzip
 - **Evidence Handling:** Chain of custody
 
-  The pathway consists of six introductory courses. The certificate of completion becomes available after all six courses have been completed.
+  The pathway consists of six courses. The certificate of completion becomes available after all six courses have been completed.
 
   ——-
 
