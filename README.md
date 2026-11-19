@@ -1,4 +1,4 @@
-Lina Laifa
+LINA LAIFA
 
 ### Junior Penetration Tester | Cybersecurity
 
