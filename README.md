@@ -140,7 +140,7 @@ I independently built an isolated Active Directory environment consisting of a W
 - Service-account security assessment
 - Technical findings and remediation recommendations
 
-**Project documentation:** To be added.
+**Project documentation:** available 
 
 ### 2. NORTHWIND.LOCAL — Active Directory and SMB Security Assessment
 
@@ -156,7 +156,7 @@ I independently built a second isolated environment consisting of a Windows Serv
 - Windows service and network exposure assessment
 - Technical findings and remediation recommendations
 
-**Project documentation:** To be added.
+**Project documentation:** available .
 
 ——-
 
