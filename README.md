@@ -174,13 +174,7 @@ My lab assessments follow a structured approach:
 
 All practical testing documented in this portfolio was conducted in isolated lab environments that I built and controlled.
 
-——-
-
-## Contact
-
-- **Email:** darcyy00@atomicmail.io
-- **GitHub:** https://github.com/Lii-1/Penetration-Testing-Portfolio-.git
-
+———
 
 
 
